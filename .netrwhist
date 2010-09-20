@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/chris/Work/mediajoint-git'
+let g:netrw_dirhist_2='/Users/chris/Work/mediajoint-git/app'
+let g:netrw_dirhist_3='/Users/chris/Work/mediajoint-git/app/controllers'
+let g:netrw_dirhist_4='/Users/chris/Work/mediajoint-git'

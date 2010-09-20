@@ -1,0 +1,2 @@
+colors vividchalk
+set nocompatible
