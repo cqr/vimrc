@@ -216,7 +216,7 @@ endfunction
 
 "{{{ ruby-side code
 function! s:DefRuby()
-env ruby << RUBYEOF
+ruby << RUBYEOF
 # {{{ ruby completion
 
 begin

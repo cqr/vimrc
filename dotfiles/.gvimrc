@@ -3,6 +3,7 @@ set gfn=Anonymous\ Pro:h13
 "ruby
 set go-=T
 set bg=dark
+nmap <SwipeLeft> :NERDTreeToggle<CR>
 if &background == "dark"
     hi normal guibg=black
     set transp=7
